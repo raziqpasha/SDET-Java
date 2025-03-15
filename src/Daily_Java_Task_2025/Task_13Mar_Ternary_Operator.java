@@ -1,7 +1,7 @@
 package Daily_Java_Task_2025;
 import java.util.Scanner;
 
-public class Task_13Mar {
+public class Task_13Mar_Ternary_Operator {
     public static void main(String[] args) {
 
         //Write a program that calculates and displays the letter grade

@@ -1,6 +1,6 @@
 package Daily_Java_Task_2025;
 
-public class Task_12Mar {
+public class Task_12Mar_Math_Concept {
     public static void main(String[] args) {
         // ³√(x²+y²-|z|)
         //x² → Square of x

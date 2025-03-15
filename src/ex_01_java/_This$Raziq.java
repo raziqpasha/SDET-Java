@@ -1,4 +1,4 @@
-package ex_1_java;
+package ex_01_java;
 
 public class _This$Raziq {
     public static void main(String[] args) {

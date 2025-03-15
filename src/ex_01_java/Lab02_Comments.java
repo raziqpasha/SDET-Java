@@ -1,5 +1,5 @@
 //this is package in the java
-package ex_1_java;
+package ex_01_java;
 
 /*
 the below first line the class is define with Identifier with define (Lab02_Comments) is Pascal case

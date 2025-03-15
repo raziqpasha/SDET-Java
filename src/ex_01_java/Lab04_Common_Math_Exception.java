@@ -1,4 +1,4 @@
-package ex_1_java;
+package ex_01_java;
 
 public class Lab04_Common_Math_Exception {
     public static void main(String[] args) {
