@@ -1,5 +1,7 @@
 package Daily_Java_Task_2025;
-
+//The Fibonacci Sequence is a series of numbers where each number
+// is the sum of the two preceding ones, starting from 0 and 1.
+//F(n)=F(n−1)+F(n−2)F(n) = F(n-1) + F(n-2)F(n)=F(n−1)+F(n−2)
 public class Task22Mar_fibonacci_Series {
     public static void main(String[] args) {
    int n=0;
