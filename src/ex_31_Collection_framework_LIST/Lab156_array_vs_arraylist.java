@@ -1,4 +1,4 @@
-package ex_31_Collection_framework;
+package ex_31_Collection_framework_LIST;
 
 public class Lab156_array_vs_arraylist {
     public static void main(String[] args) {
